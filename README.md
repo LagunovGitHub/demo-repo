@@ -1,3 +1,3 @@
 # First Repo 
 
-Trying git for the frist time
+Trying git for the frist time!
